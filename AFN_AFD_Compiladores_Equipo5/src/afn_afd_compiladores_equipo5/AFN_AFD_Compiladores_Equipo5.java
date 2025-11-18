@@ -1,5 +1,7 @@
 package afn_afd_compiladores_equipo5;
 
+import interfaz.*;
+
 import javax.swing.UIManager;
 
 public class AFN_AFD_Compiladores_Equipo5 {

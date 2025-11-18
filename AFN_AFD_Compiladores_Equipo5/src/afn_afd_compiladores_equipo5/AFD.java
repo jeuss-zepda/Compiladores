@@ -1,5 +1,8 @@
 package afn_afd_compiladores_equipo5;
 
+
+import interfaz.*;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
